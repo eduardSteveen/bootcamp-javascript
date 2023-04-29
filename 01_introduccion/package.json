@@ -1,0 +1,12 @@
+{
+  "name": "inicio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "inicio":"echo \"Hola, este es mi primer ejercicio con Node en el mejor bootcamp de programación",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
