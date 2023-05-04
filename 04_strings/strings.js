@@ -6,5 +6,5 @@ let estudianteMinus = estudiante.toLowerCase();
 let cont = estudiante.length
 let primerLetraNom = nombre[0];
 let ultimaLetraAp = estudiante[estudiante.length-1];
-let sinEspacios = estudiante.trim();
+let sinEspacios = estudiante.replace(" ","");
 let estaNombre = estudiante.includes(nombre);
