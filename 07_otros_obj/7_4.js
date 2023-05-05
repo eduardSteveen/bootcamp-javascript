@@ -1,2 +1,2 @@
 //con este comando se ingresa un valor 
-prompt("digite su edad")
+const edad = prompt("digite su edad")
